@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31019.35
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaximumNumber", "MaximumUsingGeneric\MaximumNumber.csproj", "{DAFE26D8-EEC2-4100-A027-4446D8E93F27}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3MaxFloat", "3MaxFloat\3MaxFloat.csproj", "{8A6869F6-EAE7-41BE-B424-5EC3867029FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3MaxFloat", "3MaxFloat\3MaxFloat.csproj", "{8A6869F6-EAE7-41BE-B424-5EC3867029FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxString", "MaxString\MaxString.csproj", "{3FB2DB13-BCF1-4B0A-B607-8E99FBFE15C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{8A6869F6-EAE7-41BE-B424-5EC3867029FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A6869F6-EAE7-41BE-B424-5EC3867029FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A6869F6-EAE7-41BE-B424-5EC3867029FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FB2DB13-BCF1-4B0A-B607-8E99FBFE15C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FB2DB13-BCF1-4B0A-B607-8E99FBFE15C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FB2DB13-BCF1-4B0A-B607-8E99FBFE15C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FB2DB13-BCF1-4B0A-B607-8E99FBFE15C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
