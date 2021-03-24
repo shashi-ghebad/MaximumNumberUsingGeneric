@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MaxMoreThan3Parameter
+namespace MaxValuePrint
 {
     class Program
     {
@@ -29,4 +29,4 @@ namespace MaxMoreThan3Parameter
         }
     }
 }
- 
+  
